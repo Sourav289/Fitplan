@@ -1,6 +1,6 @@
-Nutra — Smart Diet Planner
+FitPlan— Smart Diet Planner
 
-Nutra is a smart diet planning application designed to help users create personalized meal plans based on their nutritional goals, preferences, and lifestyle. It simplifies healthy eating by providing tailored recommendations and tracking your diet effectively.
+Fitplan is a smart diet planning application designed to help users create personalized meal plans based on their nutritional goals, preferences, and lifestyle. It simplifies healthy eating by providing tailored recommendations and tracking your diet effectively.
 
 Features
 
